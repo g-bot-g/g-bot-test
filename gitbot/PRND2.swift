@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+class PRND2 {
+    var data: String
+    
+    private init() {
+        self.data = "data"
+    }
+}
