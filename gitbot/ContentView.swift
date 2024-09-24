@@ -11,13 +11,9 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Text("PRND-3")
+            Text("PRND-4")
+            Text("Subtitle")
+            Text("More title")
         }
     }
-}
-// More changes in the upstream repo
-// Remote change again
-// Remote change again
-#Preview {
-    ContentView()
 }
