@@ -9,4 +9,5 @@ import Foundation
 
 enum FeatureFlags {
     case watchlist
+    case investingHub
 }
