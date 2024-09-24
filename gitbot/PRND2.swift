@@ -13,6 +13,7 @@ class PRND2 {
     var changeList: [String] = [
         "1",
         "2",
+        "3",
     ]
     
     private init() {
