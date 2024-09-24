@@ -1,3 +1,4 @@
 class NewComponent {
-  var test = "test"
+    var test = "test"
+    var more = "more"
 }
