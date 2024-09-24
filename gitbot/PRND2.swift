@@ -10,6 +10,11 @@ import Foundation
 class PRND2 {
     var data: String
     
+    var changeList: [String] = [
+        "1",
+        "2",
+    ]
+    
     private init() {
         self.data = "data"
     }
