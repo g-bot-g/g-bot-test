@@ -14,6 +14,7 @@ class PRND2 {
         "1",
         "2",
         "3",
+        "4",
     ]
     
     private init() {
