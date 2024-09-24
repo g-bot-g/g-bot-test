@@ -1,1 +1,3 @@
-class NewComponent {}
+class NewComponent {
+  var test = "test"
+}
