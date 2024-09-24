@@ -1,0 +1,3 @@
+class RemoteManager {
+  private init() {}
+}
