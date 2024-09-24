@@ -12,4 +12,5 @@ enum FeatureFlags {
     case investingHub
     case cardlist
     case invest
+    case more
 }
