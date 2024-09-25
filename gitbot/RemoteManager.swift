@@ -13,6 +13,9 @@ class RemoteManager {
     var prnd3_4 = "commit4"
     
     var prnd3_5 = "commit_need_amend"
+    
+    var test1 = "test1"
+    var test2 = "test2"
 
     private init() {}
 }
