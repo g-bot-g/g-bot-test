@@ -1,5 +1,6 @@
 class RemoteUI {
   var data: [String] = [
-    "Remote nav"
+    "Remote nav",
+    "Remote section header"
   ]
 }
