@@ -1,5 +1,6 @@
 class upstreamUpdate {
   var content: [String] = [
-    "commit"
+    "commit",
+    "commit2"
   ]
 }
